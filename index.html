@@ -1,31 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- v2026-05-10 17:05 -->
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Psychology Study Repo</title>
+<title>Psychology Study Repository</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"></noscript>
 <style>
   :root {
-    --bg: #f0fafa;
-    --surface: #ffffff;
-    --surface-2: #dff4f4;
-    --border: #b5dede;
-    --accent: #0f7c7c;
-    --accent-light: #2aadad;
-    --accent-warm: #d97a2a;
-    --text: #0a1f1f;
-    --text-muted: #3a6464;
-    --text-light: #6a9898;
+    --bg: #081414;
+    --surface: #0f2020;
+    --surface-2: #163030;
+    --border: #204444;
+    --accent: #00d4cc;
+    --accent-light: #4deae4;
+    --accent-warm: #ff9f5a;
+    --text: #d0f4f4;
+    --text-muted: #5aacac;
+    --text-light: #357070;
     --danger: #c0392b;
     --success: #27ae60;
-    --tag-bg: #dff4f4;
-    --tag-text: #0a5252;
-    --shadow: 0 2px 12px rgba(10,31,31,0.08);
-    --shadow-lg: 0 8px 32px rgba(10,31,31,0.12);
+    --tag-bg: #0f2828;
+    --tag-text: #4deae4;
+    --shadow: 0 2px 12px rgba(8,20,20,0.08);
+    --shadow-lg: 0 8px 32px rgba(8,20,20,0.12);
     --radius: 8px;
     --radius-lg: 14px;
   }
@@ -947,7 +948,7 @@
   .modal-overlay {
     position: fixed;
     inset: 0;
-    background: rgba(10,31,31,0.5);
+    background: rgba(8,20,20,0.5);
     z-index: 200;
     display: none;
     align-items: center;
@@ -1700,7 +1701,7 @@
 
 <header>
   <div class="header-brand">
-    <h1>Psychology Study Repo</h1>
+    <h1>Psychology Study Repository</h1>
     <span class="subtitle">PSYCH1A</span>
   </div>
   <div class="header-search">
@@ -1762,7 +1763,7 @@
         Manage Data
       </div>
     </div>
-    <div class="nav-version" id="appVersionBadge">v2.1</div>
+    <div class="nav-version" id="appVersionBadge">v2026-05-10 17:05</div>
   </nav>
 
   <main>
@@ -2121,7 +2122,7 @@
 // DATA STORE — separate localStorage key from SLP repo
 // ============================================================
 let db = {
-  meta: { name: "Psychology Study Repo", course: "PSYCH1A", created: new Date().toISOString() },
+  meta: { name: "Psychology Study Repository", course: "PSYCH1A", created: new Date().toISOString() },
   modules: [],
   glossary: [],
   flashcards: [],
@@ -2140,8 +2141,8 @@ let saveTimer = null;       // debounce handle
 let lastSavedSha = null;    // SHA of data.json on GitHub (needed for updates)
 let syncPending   = false;
 let isPushing     = false;
-const APP_VERSION = '2026-05-10 16:03';
-const BUILD_TS = '20260510160343';
+const APP_VERSION = '{{APP_VERSION}}';
+const BUILD_TS = '{{BUILD_TS}}';
 let _searchBackQuery = null;  // tracks query for deep-link back navigation
 let _lastSyncError = null;
 
@@ -4222,7 +4223,7 @@ async function initApp() {
     renderDashboard();
     updateQuestionForm();
   } catch(e) {
-    console.error('Psychology Study Repo: Initial render error:', e);
+    console.error('Psychology Study Repository: Initial render error:', e);
   }
   // Load data (async — fetches from GitHub if configured, else localStorage)
   try {
@@ -4231,7 +4232,7 @@ async function initApp() {
     updateBadges();
     checkDataAndShowPrompts();
   } catch(e) {
-    console.warn('Psychology Study Repo: Load error:', e);
+    console.warn('Psychology Study Repository: Load error:', e);
   }
 }
 
