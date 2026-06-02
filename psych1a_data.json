@@ -5,9 +5,1466 @@
     "created": "2026-05-08T01:43:30.787Z"
   },
   "modules": [],
-  "glossary": [],
-  "flashcards": [],
-  "questions": [],
-  "notes": [],
+  "glossary": [
+    {
+      "id": "ch1-g003",
+      "term": "Behavior",
+      "def": "How we act and interact with each other and our environment; the observable side of psychology.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g019",
+      "term": "Behavioral approach (behaviorism)",
+      "def": "Developed as a reaction to the psychodynamic approach; focuses only on observable, measurable behavior and argues behavior is explained by environmental causes rather than internal forces.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g024",
+      "term": "Biological approach (biopsychology)",
+      "def": "Studies the relationship between biology and behavior — physiological processes, the nervous system, brain parts and functions, and how medications affect brain chemistry.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g008",
+      "term": "Biological level of analysis",
+      "def": "Influences from the brain and biology — hormones, DNA, and neurotransmitters — on behavior and mental processes.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g020",
+      "term": "Case study",
+      "def": "An intensive descriptive study of one or two individuals; the only method usable for very rare behaviors, but findings cannot be generalized.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g025",
+      "term": "Cognitive approach",
+      "def": "Focuses on how mental processes — perceiving, remembering, problem solving, language, attention, and thinking — influence behavior.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g026",
+      "term": "Cognitive therapy",
+      "def": "A therapeutic approach aimed at understanding and changing thoughts; effective for depression, anxiety, OCD, and other conditions.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g031",
+      "term": "Collectivist culture",
+      "def": "A culture that emphasizes the needs of the group (family, community) over the needs of the individual.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g039",
+      "term": "Confidentiality",
+      "def": "Protecting participants' personal information, for example by assigning numbers instead of using names.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g007",
+      "term": "Control / Change (goal of psychology)",
+      "def": "The fourth goal: influencing behavior to make constructive, healthy, lasting changes (limiting or increasing certain behaviors or mental processes).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g027",
+      "term": "Control group",
+      "def": "The group that receives no manipulation or treatment, used as a comparison; often given a placebo.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g024",
+      "term": "Correlation coefficient",
+      "def": "A statistic expressing the strength and direction of a relationship between two variables, ranging from +1 to -1; the sign shows direction and the number shows strength.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g021",
+      "term": "Correlational study",
+      "def": "A descriptive method that studies how two variables are related — positively or negatively.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g030",
+      "term": "Cultural universality",
+      "def": "Behaviors or practices that occur across all cultures and are not culture-specific (e.g., universal facial expressions for emotion).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g038",
+      "term": "Debriefing",
+      "def": "An ethical requirement to reveal to participants, after the study, any information that was withheld during it.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g008",
+      "term": "Dependent variable",
+      "def": "The variable being measured; its value depends on the independent variable.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g004",
+      "term": "Describe (goal of psychology)",
+      "def": "The first goal: observing and detailing what a person is doing, which helps establish what is normal vs. abnormal behavior.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g015",
+      "term": "Descriptive research",
+      "def": "Research used to observe and describe things without specifying or concluding a causal relationship.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g032",
+      "term": "Descriptive statistics",
+      "def": "Statistics that describe and summarize data, typically using measures of central tendency and standard deviation.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g030",
+      "term": "Double-blind procedure",
+      "def": "A method in which neither the participant nor the interacting researcher knows who is in each group, reducing bias.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g026",
+      "term": "Experimental group",
+      "def": "The group in an experiment that receives the manipulation or treatment.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g016",
+      "term": "Experimental research",
+      "def": "Research that manipulates and controls variables in order to demonstrate a cause-and-effect relationship.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g005",
+      "term": "Explain (goal of psychology)",
+      "def": "The second goal: understanding why a behavior is taking place, not just describing it.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g014",
+      "term": "Functionalism",
+      "def": "Founded by William James as a reaction to structuralism; focused on the function/purpose of mental processes rather than their structure.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g010",
+      "term": "Group / sociocultural level of analysis",
+      "def": "Social and cultural influences — family, friends, environment, culture, and media — on behavior and mental processes.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g022",
+      "term": "Hierarchy of needs",
+      "def": "Abraham Maslow's theory of motivation in which lower needs must be met before reaching higher levels, culminating in self-actualization.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g020",
+      "term": "Humanistic approach",
+      "def": "Founded by Carl Rogers and Abraham Maslow; emphasizes free will, consciousness, and each person's unique potential — rejecting the behaviorist view of people as predictable machines.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g005",
+      "term": "Hypothesis",
+      "def": "A testable, measurable prediction; it must be measurable so the research can be replicated.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g041",
+      "term": "IACUC (Institutional Animal Care and Use Committee)",
+      "def": "The committee that approves or denies studies involving animals, ensuring animals are protected from harm and that alternatives are considered first.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g007",
+      "term": "Independent variable",
+      "def": "The variable that is presented, removed, increased, or decreased; it is not changed by anything else and usually influences the dependent variable.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g009",
+      "term": "Individual level of analysis",
+      "def": "Psychological influences on a person such as self-perception, personality, emotions, and feelings.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g032",
+      "term": "Individualistic culture",
+      "def": "A culture that stresses the needs of the individual over those of the group; the U.S. is generally considered individualistic.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g028",
+      "term": "Industrial melanism",
+      "def": "The genetic darkening of a species (e.g., the peppered moth) in response to pollutants; a classic example of natural selection.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g037",
+      "term": "Informed consent",
+      "def": "An ethical requirement: participants must give permission to participate and be told the risks and benefits before the study begins.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g013",
+      "term": "Introspection",
+      "def": "A method developed by Wundt in which people self-report and describe their own conscious actions and feelings; flawed because self-reports are often inaccurate.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g040",
+      "term": "IRB (Institutional Review Board)",
+      "def": "The board that reviews and approves research plans to ensure ethical guidelines are followed before research begins.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g033",
+      "term": "Mean",
+      "def": "The average value of a set of scores: add all scores and divide by the number of scores.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g034",
+      "term": "Median",
+      "def": "The middle value (midpoint) of a set of scores arranged in order; with an even number of scores, average the two central scores.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g002",
+      "term": "Mental processes",
+      "def": "Anything going on internally in the brain — thinking, observing the environment, interacting, socializing, feeling, and emotions.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g014",
+      "term": "Meta-analysis",
+      "def": "Comparing your data with statistical analyses of several similar studies to help validate findings and detect statistical significance.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g035",
+      "term": "Mode",
+      "def": "The value that occurs most often in a set of scores (mode rhymes with 'most').",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g002",
+      "term": "Natural laws",
+      "def": "One of science's core beliefs: events happen in an orderly fashion that can be described with rules (e.g., cause and effect).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g027",
+      "term": "Natural selection",
+      "def": "Darwin's concept of 'survival of the fittest' — the environment favors genetic traits that promote reproduction and survival.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g017",
+      "term": "Naturalistic observation",
+      "def": "A descriptive method of systematically watching subjects behave as they normally would, without altering the environment.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g023",
+      "term": "Negative correlation",
+      "def": "A relationship in which, as one variable increases, the other decreases (e.g., exercise and weight).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g018",
+      "term": "Observer effect",
+      "def": "A term borrowed from physics: the act of watching something can alter how that thing behaves.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g006",
+      "term": "Operational definition",
+      "def": "A working definition of how a researcher decides to measure a variable, allowing the study to be tested and replicated by others.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g013",
+      "term": "Peer review",
+      "def": "Having someone in the field review your research to check for mistakes, bias, and sound design during evaluation.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g028",
+      "term": "Placebo",
+      "def": "A fake treatment (e.g., a sugar pill) given to the control group so participants don't know which group they are in.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g009",
+      "term": "Population",
+      "def": "The entire group of interest to the researcher.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g022",
+      "term": "Positive correlation",
+      "def": "A relationship in which, as one variable increases, the other also increases (e.g., studying and GPA).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g006",
+      "term": "Predict (goal of psychology)",
+      "def": "The third goal: using knowledge of what happens and why to forecast when a behavior is likely to occur again.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g017",
+      "term": "Psychodynamic approach",
+      "def": "Sigmund Freud's approach; behavior and personality stem from the unconscious mind and from early development. Based on observations of his (mostly upper-class female Viennese) clients.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g001",
+      "term": "Psychology",
+      "def": "The scientific study of mental processes and behavior. The key word is 'scientific' — modern psychology is based on research and data, not opinion.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g029",
+      "term": "Random assignment",
+      "def": "Randomly placing participants into the experimental or control group so each has an equal chance, making the groups as similar as possible before the study.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g011",
+      "term": "Random selection",
+      "def": "Identifying a sample so that everyone in the population of interest has an equal chance of being included in the study.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g010",
+      "term": "Sample",
+      "def": "A portion of a population selected for a study that is meant to represent that population.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g012",
+      "term": "Sampling bias",
+      "def": "Selecting a group that is especially likely to confirm your hypothesis; this is improper because it misrepresents reality.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g001",
+      "term": "Scientific method",
+      "def": "A logical, shared approach for discovering and testing laws about how things happen: observe, hypothesize, test, conclude, and evaluate.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g023",
+      "term": "Self-actualization",
+      "def": "The top of Maslow's hierarchy — reaching one's true calling or full potential.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g029",
+      "term": "Sociocultural approach",
+      "def": "A newer approach studying how thinking and behavior vary across cultures, ethnic groups, and countries.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g036",
+      "term": "Standard deviation",
+      "def": "A statistic showing how much participant scores vary from one another within a group.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g031",
+      "term": "Statistics",
+      "def": "A mathematical method used to report, understand, and make sense of data.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g016",
+      "term": "Stream of consciousness",
+      "def": "James's idea that consciousness is a continuous flow that cannot be turned on and off, making its structure hard to study.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g011",
+      "term": "Structuralism",
+      "def": "The first theory in psychology, founded by Wilhelm Wundt; focused on breaking mental processes down into their most basic building blocks (their structure).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g019",
+      "term": "Survey",
+      "def": "A descriptive method in which the researcher asks people a series of questions (in person, phone, email, or written).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g004",
+      "term": "Theory",
+      "def": "An explanation that attempts to understand why an observed event happens; helps build the larger picture of the world.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-g025",
+      "term": "Third variable problem",
+      "def": "An unmeasured factor that may actually be causing changes in both correlated variables, which is why correlation cannot prove causation.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g021",
+      "term": "Unconditional positive regard",
+      "def": "A core feature of Carl Rogers's client-centered therapy: full acceptance of a client without judgment, providing a safe space to express themselves.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g018",
+      "term": "Unconscious mind",
+      "def": "Freud's hypothesized part of the mind storing repressed, painful, or taboo thoughts; still unproven scientifically because it cannot be directly seen or measured.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-g003",
+      "term": "Variable",
+      "def": "A factor that is measured or examined in research (e.g., type of flower and time spent on it).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-g012",
+      "term": "Wilhelm Wundt",
+      "def": "Known as the father of psychology; established the first psychology lab in 1879 in Germany and founded structuralism.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-g015",
+      "term": "William James",
+      "def": "The first psychologist in the United States; taught at Harvard, wrote the first psychology textbook, and developed functionalism.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "ch1-f001",
+      "front": "What is the modern definition of psychology?",
+      "back": "The scientific study of mental processes and behavior.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f002",
+      "front": "What are the four goals of psychology?",
+      "back": "Describe, explain, predict, and control/change behavior.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f003",
+      "front": "What are the three levels of analysis that influence us?",
+      "back": "Biological (brain), individual (psychological), and group (sociocultural).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f004",
+      "front": "Who is the father of psychology, and what did he establish?",
+      "back": "Wilhelm Wundt; he founded structuralism and opened the first psychology lab in 1879 in Germany.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f005",
+      "front": "What method did Wundt use, and what was its biggest flaw?",
+      "back": "Introspection (self-report); its flaw is that people's descriptions of their own thoughts and feelings are often inaccurate.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f006",
+      "front": "Who founded functionalism and what did it emphasize?",
+      "back": "William James; it emphasized the function/purpose of mental processes rather than their structure.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f007",
+      "front": "What made Wundt and James so important to psychology?",
+      "back": "They were among the first to study the mind scientifically using the scientific method, helping psychology become its own field.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f008",
+      "front": "What are the shared values of contemporary psychology?",
+      "back": "It is theory-driven, empirical, multi-level, and contextual.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f009",
+      "front": "What did Freud believe drives behavior and personality?",
+      "back": "Unconscious desires and early development; he used hypnosis to surface repressed thoughts.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f010",
+      "front": "What does behaviorism focus on and why?",
+      "back": "Observable behavior — because it can be seen, measured, and scientifically researched, unlike the unconscious mind.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f011",
+      "front": "Who founded humanistic psychology and what is its focus?",
+      "back": "Carl Rogers and Abraham Maslow; it focuses on free will, consciousness, and each person's unique potential.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f012",
+      "front": "What is Maslow's hierarchy of needs?",
+      "back": "A motivation theory where lower needs must be met before reaching higher ones, ending in self-actualization.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f013",
+      "front": "What does biopsychology study?",
+      "back": "The relationship between biology (nervous system, brain, chemistry, medications) and behavior/mental processes.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f014",
+      "front": "What is the peppered moth an example of?",
+      "back": "Natural selection / industrial melanism — darker moths survived sooty trees during the Industrial Revolution.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-f015",
+      "front": "Collectivist vs. individualistic culture?",
+      "back": "Collectivist cultures prioritize group needs; individualistic cultures prioritize individual needs (the U.S. is generally individualistic).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-f001",
+      "front": "What are the two core beliefs of science?",
+      "back": "(1) The universe operates by natural laws; (2) those laws are discoverable and testable.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f002",
+      "front": "What are the five steps of the scientific method?",
+      "back": "Observe, hypothesize, test, conclude, and evaluate.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f003",
+      "front": "What makes a good hypothesis?",
+      "back": "It must be testable and measurable so the research can be replicated.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f004",
+      "front": "What is an operational definition?",
+      "back": "A working definition of how a researcher will measure a variable so others can replicate the study.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f005",
+      "front": "Independent vs. dependent variable?",
+      "back": "The independent variable is manipulated/present and influences the outcome; the dependent variable is measured and depends on the independent variable.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f006",
+      "front": "Population vs. sample?",
+      "back": "A population is the entire group of interest; a sample is a representative portion of that population.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f007",
+      "front": "Why is random selection important?",
+      "back": "It gives everyone in the population an equal chance of being included, avoiding bias.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f008",
+      "front": "What are the four types of descriptive research?",
+      "back": "Naturalistic observation, surveys, case studies, and correlational studies.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f009",
+      "front": "What is the key limitation shared by all descriptive research?",
+      "back": "It cannot determine cause and effect.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f010",
+      "front": "What is the observer effect?",
+      "back": "The act of watching something can change how it behaves.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f011",
+      "front": "Positive vs. negative correlation?",
+      "back": "Positive: both variables move in the same direction. Negative: one increases while the other decreases.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f012",
+      "front": "What does a correlation coefficient tell you?",
+      "back": "Its sign (+/-) gives direction and its number (0 to 1) gives the strength of the relationship; it ranges from +1 to -1.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f013",
+      "front": "Why can't correlation prove causation?",
+      "back": "There may be a third variable causing both, and no variables are being controlled or manipulated.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f014",
+      "front": "Experimental vs. control group?",
+      "back": "The experimental group receives the treatment; the control group receives none (often a placebo) for comparison.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f015",
+      "front": "What is a double-blind procedure and why use it?",
+      "back": "Neither participant nor interacting researcher knows group assignments; it prevents biased treatment of participants.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f016",
+      "front": "What are the three measures of central tendency?",
+      "back": "Mean (average), median (middle value), and mode (most frequent value).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f017",
+      "front": "What does standard deviation tell us?",
+      "back": "How much scores vary from one another within a group — important even when two groups share the same mean.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f018",
+      "front": "Name four ethical guidelines for human research.",
+      "back": "Informed consent, protection from harm/discomfort, confidentiality, and debriefing.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-f019",
+      "front": "What do the IRB and IACUC do?",
+      "back": "The IRB approves research plans for ethics (human studies); the IACUC approves/denies studies involving animals.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "ch1-q001",
+      "type": "mc",
+      "text": "Which word in the modern definition of psychology emphasizes that it is research- and data-based?",
+      "options": [
+        "Scientific",
+        "Mental",
+        "Behavioral",
+        "Philosophical"
+      ],
+      "answer": "Scientific",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q002",
+      "type": "mc",
+      "text": "Which of the following is NOT one of the four goals of psychology?",
+      "options": [
+        "Describe behavior",
+        "Explain behavior",
+        "Predict behavior",
+        "Diagnose behavior"
+      ],
+      "answer": "Diagnose behavior",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q003",
+      "type": "mc",
+      "text": "A teacher noticing a student withdraws and avoids eye contact, then connecting it to the student's reading struggles, is moving from which goal to which goal?",
+      "options": [
+        "Describing to explaining",
+        "Predicting to controlling",
+        "Explaining to predicting",
+        "Controlling to describing"
+      ],
+      "answer": "Describing to explaining",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q004",
+      "type": "mc",
+      "text": "Who is known as the father of psychology and founded structuralism?",
+      "options": [
+        "Wilhelm Wundt",
+        "William James",
+        "Sigmund Freud",
+        "Carl Rogers"
+      ],
+      "answer": "Wilhelm Wundt",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q005",
+      "type": "mc",
+      "text": "Which approach focuses ONLY on observable behavior and environmental causes?",
+      "options": [
+        "Behaviorism",
+        "Psychodynamic",
+        "Humanistic",
+        "Cognitive"
+      ],
+      "answer": "Behaviorism",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q006",
+      "type": "mc",
+      "text": "Maslow's hierarchy of needs culminates in which top level?",
+      "options": [
+        "Self-actualization",
+        "Unconditional positive regard",
+        "Safety",
+        "Esteem"
+      ],
+      "answer": "Self-actualization",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q007",
+      "type": "tf",
+      "text": "Wilhelm Wundt established the first psychology lab in 1879 in Germany.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q008",
+      "type": "tf",
+      "text": "The existence of the unconscious mind has been scientifically proven.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q009",
+      "type": "tf",
+      "text": "William James founded functionalism as a reaction to structuralism.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q010",
+      "type": "fitb",
+      "text": "The method Wundt used in which people describe their own conscious experiences through self-report is called ______.",
+      "answer": "introspection",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q011",
+      "type": "fitb",
+      "text": "The genetic darkening of the peppered moth in response to pollution is a classic example of natural ______.",
+      "answer": "selection",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q012",
+      "type": "sa",
+      "text": "Explain the three levels of analysis and give one example of how each could influence a person's sleep.",
+      "answer": "Biological (e.g., melatonin, sleep apnea, hormones), individual/psychological (e.g., anxiety or poor sleep habits like phone use in bed), and group/sociocultural (e.g., a snoring partner, a bad mattress, or kids waking up). Any behavior is usually influenced on all three levels.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q013",
+      "type": "match",
+      "text": "Match each early/contemporary approach to its key idea.",
+      "answer": "matched",
+      "pairs": [
+        [
+          "Structuralism",
+          "Breaking the mind into its basic building blocks"
+        ],
+        [
+          "Functionalism",
+          "The purpose/function of mental processes"
+        ],
+        [
+          "Psychodynamic",
+          "Behavior driven by the unconscious mind"
+        ],
+        [
+          "Humanistic",
+          "Free will and each person's unique potential"
+        ],
+        [
+          "Behaviorism",
+          "Only observable, measurable behavior"
+        ]
+      ],
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-q014",
+      "type": "match",
+      "text": "Match each psychologist to their contribution.",
+      "answer": "matched",
+      "pairs": [
+        [
+          "Wilhelm Wundt",
+          "First psychology lab; structuralism"
+        ],
+        [
+          "William James",
+          "First U.S. psychologist; functionalism"
+        ],
+        [
+          "Sigmund Freud",
+          "Unconscious mind; psychodynamic approach"
+        ],
+        [
+          "Carl Rogers",
+          "Client-centered therapy; people are innately good"
+        ],
+        [
+          "Abraham Maslow",
+          "Hierarchy of needs"
+        ]
+      ],
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-q001",
+      "type": "mc",
+      "text": "Which is the correct order of the steps of the scientific method?",
+      "options": [
+        "Observe, hypothesize, test, conclude, evaluate",
+        "Hypothesize, observe, conclude, test, evaluate",
+        "Test, observe, hypothesize, evaluate, conclude",
+        "Observe, test, hypothesize, evaluate, conclude"
+      ],
+      "answer": "Observe, hypothesize, test, conclude, evaluate",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q002",
+      "type": "mc",
+      "text": "In a study of how daily sunlamp exposure affects depression levels, what is the dependent variable?",
+      "options": [
+        "Depression levels",
+        "Sunlamp exposure",
+        "Time of year",
+        "The participants"
+      ],
+      "answer": "Depression levels",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q003",
+      "type": "mc",
+      "text": "A researcher studies 10 students from Harvard University. This group is best described as a:",
+      "options": [
+        "Sample",
+        "Population",
+        "Variable",
+        "Control group"
+      ],
+      "answer": "Sample",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q004",
+      "type": "mc",
+      "text": "Which research method is most appropriate for studying a very rare behavior, such as a serial killer's history?",
+      "options": [
+        "Case study",
+        "Survey",
+        "Experiment",
+        "Naturalistic observation"
+      ],
+      "answer": "Case study",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q005",
+      "type": "mc",
+      "text": "Studying more is associated with a higher GPA. This is an example of a:",
+      "options": [
+        "Positive correlation",
+        "Negative correlation",
+        "Cause-and-effect relationship",
+        "Zero correlation"
+      ],
+      "answer": "Positive correlation",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q006",
+      "type": "mc",
+      "text": "Why is a double-blind procedure used in experiments?",
+      "options": [
+        "So neither the participant nor the interacting researcher knows group assignments, reducing bias",
+        "So the researcher can choose who gets the treatment",
+        "So participants can pick their own group",
+        "So the study can skip a control group"
+      ],
+      "answer": "So neither the participant nor the interacting researcher knows group assignments, reducing bias",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q007",
+      "type": "mc",
+      "text": "Which measure of central tendency is the value that occurs most often?",
+      "options": [
+        "Mode",
+        "Mean",
+        "Median",
+        "Standard deviation"
+      ],
+      "answer": "Mode",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q008",
+      "type": "tf",
+      "text": "A hypothesis must be testable and measurable so the research can be replicated.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q009",
+      "type": "tf",
+      "text": "Descriptive research can establish a clear cause-and-effect relationship.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q010",
+      "type": "tf",
+      "text": "Two data sets can have the same mean but very different standard deviations.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q011",
+      "type": "tf",
+      "text": "A correlation coefficient can range from +1 to -1.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q012",
+      "type": "fitb",
+      "text": "The variable that is measured and depends on the independent variable is the ______ variable.",
+      "answer": "dependent",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q013",
+      "type": "fitb",
+      "text": "A fake treatment, such as a sugar pill, given to the control group is called a ______.",
+      "answer": "placebo",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q014",
+      "type": "fitb",
+      "text": "Defining exactly how a variable will be measured so others can replicate the study is creating an operational ______.",
+      "answer": "definition",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q015",
+      "type": "sa",
+      "text": "Using the depression/stress correlational example, explain why a positive correlation does not prove that stress causes depression.",
+      "answer": "A positive correlation only shows that as stress increases depression increases (and vice versa) — that they are related. It cannot show direction of causation, and a third variable (such as poverty) could be causing both to rise. Because nothing is manipulated or controlled, causation cannot be established from a correlational study.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q016",
+      "type": "match",
+      "text": "Match each descriptive research method to its description.",
+      "answer": "matched",
+      "pairs": [
+        [
+          "Naturalistic observation",
+          "Systematically watching subjects behave normally"
+        ],
+        [
+          "Survey",
+          "Asking people a series of questions directly"
+        ],
+        [
+          "Case study",
+          "Intensive study of one or two individuals"
+        ],
+        [
+          "Correlational study",
+          "Examining how two variables are related"
+        ]
+      ],
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-q017",
+      "type": "match",
+      "text": "Match each ethical guideline or board to what it ensures.",
+      "answer": "matched",
+      "pairs": [
+        [
+          "Informed consent",
+          "Permission given after being told the risks"
+        ],
+        [
+          "Debriefing",
+          "Revealing withheld information after the study"
+        ],
+        [
+          "Confidentiality",
+          "Protecting participants' personal information"
+        ],
+        [
+          "IRB",
+          "Approving research plans for ethical compliance"
+        ],
+        [
+          "IACUC",
+          "Approving or denying studies involving animals"
+        ]
+      ],
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch2-n001",
+      "title": "Ch. 2 — Psychological Research (Lecture Notes)",
+      "body": "# Chapter 2 — Psychological Research (Week 1 Lecture)\n\n## Why Psychology Is a Science\n- Science rests on **two core beliefs**:\n  1. The universe operates according to **natural laws** (e.g., cause and effect) that describe events in an orderly way.\n  2. Those laws are **discoverable and testable** — we can observe, find the law, predict, and experiment to check the prediction.\n- Psychology shares the **scientific method** with other sciences but studies harder-to-measure things (thoughts, behaviors, emotions), so the method matters even more.\n\n## The Scientific Method (5 steps)\n1. **Observe** — triggered by curiosity (the researcher's motivation). Identify the **variables** and form a **theory** about *why* the observation happens.\n2. **Hypothesize** — make a **testable, measurable** prediction. Must be measurable so it can be **replicated**. (Honeybee example: \"bees spend twice as long on squash flowers as on lavender.\")\n3. **Test** — collect data on the variables.\n4. **Conclude** — analyze the data; ask whether results support the hypothesis, how they alter the theory, and whether they can be **generalized**.\n5. **Evaluate** — adjust the theory; get **peer review**; run a **meta-analysis** (compare with similar studies) to validate findings and detect statistical significance.\n\n## Variables & Operational Definitions\n- **Variable:** a factor being measured/examined.\n- **Theory** explains *why*; a **hypothesis** is the specific testable prediction. A hypothesis without a theory doesn't build the bigger picture.\n- **Independent variable (IV):** presented/removed/increased/decreased; not changed by anything else; usually the influencer.\n- **Dependent variable (DV):** the thing measured; *depends on* the IV.\n  - Tip: ask \"can A be affected by B?\" The thing that makes sense to be affected is the DV.\n  - Sunlamp example: sunlamp exposure (IV) → depression levels (DV).\n- **Operational definition:** how the researcher decides to **measure** a variable so others can replicate it (e.g., \"sunlamp exposure = 1 hour or no exposure\"). Behaviors are easier to operationally define than emotions; use reliable, valid **inventories/surveys** when measuring abstract traits.\n\n## Populations & Samples\n- **Population:** the entire group of interest.\n- **Sample:** a representative *portion* of the population (you usually can't measure the whole population).\n- **Random selection:** everyone in the population has an **equal chance** of being chosen — no cherry-picking.\n- **Sampling bias:** choosing a group likely to confirm your hypothesis — improper and inaccurate.\n- Quick rule: a **number** in front of a group (\"10 students from Harvard\") = a **sample**; the group name alone (\"students from Harvard\") = a **population**.\n\n## Two Broad Types of Research\n- **Descriptive research:** observe and describe **without** concluding cause and effect.\n  - Advantages: good for early ideas, reflects real behavior, easier/cheaper to collect.\n  - Disadvantage: little/no control of variables; **no proof of cause and effect**.\n- **Experimental research:** **manipulate and control** variables to identify **cause and effect**.\n  - Advantages: precise control; can establish causation; eliminates outside influences.\n  - Disadvantages: ethical concerns, practical limits, artificial lab conditions, limited generalizability, costly.\n\n## Four Descriptive Methods\n- **Naturalistic observation:** systematic \"people (or thing) watching\" with no interference. Good for unethical-to-manipulate or lie-about behaviors. Watch out for the **observer effect** (being watched changes behavior).\n- **Survey:** ask people directly (in person, phone, email, written). Fast and cheap, but people often **lie**, especially on taboo topics — word questions carefully/indirectly.\n- **Case study:** intensive study of **one or two** people; the only option for very rare behaviors (e.g., Columbine shooters Eric Harris & Dylan Klebold). Rich detail, but **cannot be generalized**.\n- **Correlational study:** examines how **two variables relate**.\n  - **Positive correlation:** both move the same direction (studying ↑ → GPA ↑).\n  - **Negative correlation:** one up, one down (exercise ↑ → weight ↓).\n  - **Correlation coefficient:** +1 to -1; **sign = direction**, **number = strength**.\n  - **Correlation ≠ causation** — a **third variable** (e.g., poverty driving both stress and depression) may be the real cause.\n\n## Experiments — Groups & Controls\n- **Experimental group:** receives the treatment/manipulation.\n- **Control group:** receives no treatment (often a **placebo** like a sugar pill) for comparison.\n  - If both groups improve equally, the treatment isn't proven to work; if only the experimental group improves, that's strong evidence it works.\n- **Random assignment:** randomly place participants so groups start as equal as possible — no cherry-picking (important for honest drug/weight-loss research).\n- **Double-blind procedure:** neither participant nor interacting researcher knows the assignments → prevents biased treatment.\n\n## Statistics\n- **Statistics:** a mathematical method to report and make sense of data.\n- **Descriptive statistics** summarize data using **measures of central tendency** and **standard deviation**.\n  - **Mean** = average (sum ÷ count).\n  - **Median** = middle value in order (average the two middle values if an even count).\n  - **Mode** = most frequent value (\"mode\" ≈ \"most\"); a set can have no mode.\n- **Standard deviation:** how much scores **vary** from each other in a group.\n  - Pokémon vs. Extreme Makeover donation example: **same mean ($5)** but very different spread — standard deviation reveals the different impact the means hide.\n- **Inferential statistics:** (introduced; covered more later).\n\n## Research Ethics\n- **IRB (Institutional Review Board)** must approve a research plan *before* it begins.\n- Human-participant guidelines:\n  - **Informed consent** — permission + being told the **risks/benefits** beforehand.\n  - **Protection from harm and discomfort** — no lasting negative effects.\n  - **Confidentiality** — protect personal info (e.g., assign numbers instead of names).\n  - **Debriefing** — after the study, reveal any information that was withheld.\n- **IACUC (Institutional Animal Care and Use Committee)** approves/denies animal studies — protect animals from pain, seek alternatives first, weigh scientific merit.\n\n## ★ KEY EXAM POINTS\n- ★ Two core beliefs of science: **natural laws exist** + they are **discoverable/testable**.\n- ★ Scientific method order: **Observe → Hypothesize → Test → Conclude → Evaluate.**\n- ★ A hypothesis must be **testable and measurable** (for replication).\n- ★ **IV = manipulated/influencer; DV = measured/depends on IV.**\n- ★ **Operational definition** = how you measure a variable (enables replication).\n- ★ **Population vs. sample**; random selection = equal chance; avoid **sampling bias**.\n- ★ **Descriptive research cannot prove cause/effect; experiments can.**\n- ★ Four descriptive methods: **naturalistic observation, survey, case study, correlational.**\n- ★ **Correlation ≠ causation** (watch for the **third variable**).\n- ★ Correlation coefficient range **+1 to -1**: sign = direction, number = strength.\n- ★ **Experimental vs. control group; placebo; random assignment; double-blind.**\n- ★ Central tendency: **mean, median, mode**; **standard deviation** = spread (can differ even with equal means).\n- ★ Ethics: **informed consent, protection from harm, confidentiality, debriefing**; **IRB** (humans), **IACUC** (animals).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-n001",
+      "title": "Ch. 1 — Introduction to Psychology (Lecture Notes)",
+      "body": "# Chapter 1 — Introduction to Psychology (Week 1 Lecture)\n\n## What Is Psychology?\n- **Definition:** Psychology is the *scientific* study of mental processes and behavior.\n  - \"Scientific\" is underlined for a reason — modern psychology is science-based. Any theory or research must be done scientifically (data collected, findings based on real facts).\n- **Mental processes:** anything going on in the brain — thinking, observing the environment, interacting, socializing, feeling, emotions.\n- **Behavior:** how we act and interact with each other and our environment.\n- **Common misconception:** psychology is NOT just therapists \"controlling minds.\" That myth exists because of psychology's long, winding history.\n\n## The Four Goals of Psychology\n1. **Describe** behavior — detail what's happening; helps define normal vs. abnormal.\n2. **Explain** behavior — understand *why* it's happening.\n3. **Predict** behavior — forecast *when* it's likely to occur again; successfully predicting suggests we understand the underlying cause.\n4. **Control / Change** behavior — influence behavior to make constructive, healthy, lasting changes.\n- Teacher/student example threads through all four: describe the withdrawn behaviors → explain (struggles with reading/writing) → predict (occurs during English class / reading aloud) → change (encourage participation, praise, build a plan).\n\n## Three Levels of Analysis\n- **Biological (brain):** hormones, DNA, neurotransmitters.\n- **Individual (psychological):** self-perception, personality, emotions, feelings.\n- **Group (sociocultural):** family, friends, environment, culture, media.\n- Any behavior is usually influenced on **all three levels at once** (sleep example: melatonin/sleep apnea = biological; anxiety/phone in bed = individual; snoring partner/bad mattress/kids = group).\n\n## Early Approaches\n- Psychology began as **philosophy** — curiosity-driven theories that couldn't be proven right or wrong.\n- It became its own field when people adopted the **scientific method** (hypothesis + data collection).\n- **Structuralism** — first theory; founded by **Wilhelm Wundt** (father of psychology), first psych lab **1879, Germany**.\n  - Goal: break mental processes into their basic building blocks (the *structure*).\n  - Method: **introspection** (self-report).\n  - Demonstrated that **sensation and perception are separate** processes (people took longer to categorize a sound than to acknowledge hearing it).\n  - **Flaw of introspection:** self-reports are often inaccurate — perception ≠ reality.\n- **Functionalism** — founded by **William James** (first U.S. psychologist, taught at Harvard, wrote the first psychology textbook).\n  - Focus on the **function/purpose** of mental processes, not their structure.\n  - Believed consciousness is a continuous **stream** that can't be turned on/off; its function is to keep us alive.\n\n## Contemporary Psychology — Shared Values\n- **Theory-driven** — uses theories to explain behavior.\n- **Empirical** — based on research, not opinion or personal experience.\n- **Multi-level** — looks at brain, individual, and group influences.\n- **Contextual** — (newer) considers cultural context.\n\n## Contemporary Approaches\n- **Psychodynamic (Sigmund Freud):** behavior/personality come from the **unconscious mind** and early development; used **hypnosis** to surface repressed thoughts. Based on subjective observations of mostly upper-class female Viennese clients. The unconscious is still a **hypothesis** — unproven.\n- **Behavioral (behaviorism):** reaction to the psychodynamic approach; focuses on **observable, measurable behavior** explained by the **environment**, not internal forces. Source of classical & operant conditioning; still used today (ABA in autism programs, token economies, aversion therapy, behavior plans, dieting, dog training).\n- **Humanistic (Carl Rogers & Abraham Maslow):** rejects the behaviorist \"people as machines\" view; emphasizes **free will**, consciousness, and unique human potential.\n  - Rogers: people are **innately good**; developed **client-centered therapy** with **unconditional positive regard**.\n  - Maslow: **hierarchy of needs** — lower needs must be met to reach **self-actualization**.\n- **Biological (biopsychology):** relationship between biology and behavior — nervous system, brain parts/functions, medications/brain chemistry. Influence flows **both ways** (mental → physical and physical → mental).\n- **Cognitive:** how mental processes (perceiving, remembering, problem solving, language, attention, thinking) influence behavior; **cognitive therapy** treats depression, anxiety, OCD, etc.\n- **Evolutionary (Charles Darwin):** **natural selection** (\"survival of the fittest\"); the environment favors traits aiding survival/reproduction. Example: **peppered moth / industrial melanism**.\n- **Sociocultural:** newer; studies how thinking/behavior vary across cultures.\n  - **Cultural universality** — traits found in all cultures (e.g., universal facial expressions of emotion).\n  - **Collectivist** cultures prioritize group needs; **individualistic** cultures prioritize the individual (U.S. is generally individualistic).\n\n## Careers & Specializations\n- **Clinical/counseling** (therapists, school counselors), **academic** (teaching + research), **applied** (schools, marketing, research institutions).\n- Many specialization areas each get their own chapter later (e.g., social psychology).\n\n## ★ KEY EXAM POINTS\n- ★ Psychology = the **scientific** study of **mental processes and behavior**.\n- ★ Four goals: **describe, explain, predict, control/change**.\n- ★ Three levels of analysis: **biological, individual, group (sociocultural)** — behavior is usually influenced by all three.\n- ★ **Wundt** = father of psychology, **structuralism**, **introspection**, first lab **1879 Germany**.\n- ★ **James** = first U.S. psychologist, **functionalism**, focus on **function** not structure.\n- ★ Know each contemporary approach + its founder: psychodynamic (Freud/unconscious), behaviorism (observable behavior), humanistic (Rogers & Maslow/free will), biopsychology (biology), cognitive (thinking), evolutionary (Darwin/natural selection), sociocultural (culture).\n- ★ The **unconscious mind** is still an unproven hypothesis.\n- ★ **Peppered moth = natural selection / industrial melanism.**\n- ★ **Collectivist vs. individualistic** cultures.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    }
+  ],
   "questionStats": {}
 }
