@@ -16,6 +16,15 @@
       "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
     },
     {
+      "id": "ch1-v-g009",
+      "term": "Anna O. / talking cure",
+      "def": "A case (treated by Josef Breuer) in which talking through symptoms reduced them, inspiring Freud's approach.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
       "id": "ch2-tx-g012",
       "term": "Archival research",
       "def": "Research that analyzes existing records and data sets rather than collecting new data.",
@@ -32,6 +41,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-v-g012",
+      "term": "B. F. Skinner",
+      "def": "Behaviorist known for conditioning animals to perform behaviors and for Behavior of Organisms.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
     },
     {
       "id": "ch1-g003",
@@ -349,6 +367,15 @@
       "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
     },
     {
+      "id": "ch1-v-g004",
+      "term": "Edward Bradford Titchener",
+      "def": "Wundt's student who named the structuralist approach.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
       "id": "ch1-tx-g005",
       "term": "Edward Titchener",
       "def": "Wundt's student who brought structuralism to the United States and coined the term.",
@@ -421,6 +448,15 @@
       "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
     },
     {
+      "id": "ch1-v-g008",
+      "term": "Free association",
+      "def": "A psychoanalytic technique in which patients talk freely about whatever comes to mind to surface repressed feelings.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
       "id": "ch1-g014",
       "term": "Functionalism",
       "def": "Founded by William James as a reaction to structuralism; focused on the function/purpose of mental processes rather than their structure.",
@@ -464,6 +500,15 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-v-g001",
+      "term": "Hindsight bias",
+      "def": "The 'I-knew-it-all-along' tendency to see an outcome as obvious after it has already happened.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
     },
     {
       "id": "ch1-tx-g012",
@@ -590,6 +635,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-v-g014",
+      "term": "Integrative science",
+      "def": "The idea that psychology pulls from many schools of thought and data-gathering methods because the mind must be examined from all sides.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
     },
     {
       "id": "ch2-tx-g010",
@@ -754,6 +808,24 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch2-v-g004",
+      "term": "Operationalizing",
+      "def": "Turning general questions into measurable, testable propositions.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-g002",
+      "term": "Overconfidence",
+      "def": "The tendency to be more certain about our judgments of people than accuracy warrants.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
       "id": "ch2-g013",
       "term": "Peer review",
       "def": "Having someone in the field review your research to check for mistakes, bias, and sound design during evaluation.",
@@ -761,6 +833,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-v-g003",
+      "term": "Perceiving order in random events",
+      "def": "The tendency to read meaning into random sequences (e.g., a coin-flip 'streak'), leading to false assumptions.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
     },
     {
       "id": "ch1-tx-g021",
@@ -826,6 +907,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
     },
     {
+      "id": "ch1-v-g007",
+      "term": "Psychoanalysis",
+      "def": "Freud's theory and therapy holding that personality is shaped by unconscious motives that can be uncovered through dreams, projection, and free association.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
       "id": "ch1-tx-g010",
       "term": "Psychoanalytic theory",
       "def": "Sigmund Freud's view that behavior and personality are shaped by unconscious drives and early childhood experiences.",
@@ -844,6 +934,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
     },
     {
+      "id": "ch1-v-g013",
+      "term": "Psychodynamic theories",
+      "def": "Freud's psychoanalysis and its descendants, stressing how early experiences shape the unconscious and later thoughts and behavior.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
       "id": "ch1-g001",
       "term": "Psychology",
       "def": "The scientific study of mental processes and behavior. The key word is 'scientific' — modern psychology is based on research and data, not opinion.",
@@ -851,6 +950,15 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-v-g001",
+      "term": "Psychology (Crash Course)",
+      "def": "The science of behavior and mental processes; the word comes from the Latin for 'study of the soul'.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
     },
     {
       "id": "ch2-g029",
@@ -887,6 +995,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-v-g007",
+      "term": "Replication",
+      "def": "Repeating a study to see if consistent results hold across subjects and situations; key to trusting findings.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
     },
     {
       "id": "ch2-g010",
@@ -997,6 +1114,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch2-v-g010",
+      "term": "Survey / interview",
+      "def": "Asking people to report opinions and behaviors; subject to wording effects and sampling bias.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
       "id": "ch2-g004",
       "term": "Theory",
       "def": "An explanation that attempts to understand why an observed event happens; helps build the larger picture of the world.",
@@ -1031,6 +1157,15 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-v-g010",
+      "term": "Unconscious",
+      "def": "In Freud's theory, mental processes below awareness that influence behavior yet can be discovered through therapy.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
     },
     {
       "id": "ch1-g018",
@@ -1645,6 +1780,204 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-v-f001",
+      "front": "Where does the word 'psychology' come from, and how is it defined today?",
+      "back": "From the Latin for 'study of the soul'; today, the science of behavior and mental processes.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-f002",
+      "front": "What three early schools of thought competed around Freud's time?",
+      "back": "Structuralism, functionalism, and psychoanalysis.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-f003",
+      "front": "Why was structuralism short-lived?",
+      "back": "It relied on introspection, which was too subjective — inner thoughts/feelings can't be directly observed.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-f004",
+      "front": "What case inspired Freud's talking cure?",
+      "back": "Josef Breuer's treatment of Anna O., whose symptoms eased the more she talked through them.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-f005",
+      "front": "What was radical about psychoanalysis in 1900?",
+      "back": "The idea that unconscious motives we're unaware of shape personality — and that they're still discoverable through therapy.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-f006",
+      "front": "Name the three behaviorist 'heavy hitters' from the video.",
+      "back": "Ivan Pavlov, John B. Watson, and B. F. Skinner.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-f007",
+      "front": "What are psychodynamic theories?",
+      "back": "Freud's psychoanalysis and its descendants, stressing how early experiences shape the unconscious and later behavior.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-f008",
+      "front": "What is the video's main takeaway about psychology?",
+      "back": "It's an integrative science — the mind must be pried at from all sides using many methods.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-f009",
+      "front": "What did Wundt publish, and why does it matter?",
+      "back": "Principles of Physiological Psychology — considered the first true psychology textbook.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-f010",
+      "front": "What idea was functionalism based on?",
+      "back": "Darwin's idea that adaptive behaviors are conserved through evolution.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch2-v-f001",
+      "front": "What is hindsight bias?",
+      "back": "The 'I-knew-it-all-along' tendency to see outcomes as obvious only after they happen.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-f002",
+      "front": "Give two reasons you can't blindly trust intuition.",
+      "back": "Overconfidence and the tendency to perceive order/meaning in random events.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-f003",
+      "front": "What does it mean to operationalize a question?",
+      "back": "To turn a general question into a measurable, testable proposition.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-f004",
+      "front": "Why is replication key?",
+      "back": "Consistent results across subjects and situations are what let you trust a finding.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-f005",
+      "front": "What's the main weakness of case studies?",
+      "back": "They can't be replicated and risk over-generalizing from one individual.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-f006",
+      "front": "How can survey wording change results?",
+      "back": "Forceful words ('ban,' 'censor') vs. milder ones ('limit') and ambiguous phrasing can shift responses.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-f007",
+      "front": "Why is a random sample important?",
+      "back": "So every member of the target group has an equal chance of selection and the sample represents the population.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-f008",
+      "front": "What's the key caution about correlation?",
+      "back": "Correlation predicts the possibility of cause and effect but cannot prove it.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-f009",
+      "front": "What two groups does an experiment need?",
+      "back": "An experimental group (gets the manipulation) and a control group (does not).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-f010",
+      "front": "What is a double-blind procedure?",
+      "back": "Neither participants nor researchers know who is in the experimental vs. control group.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-f011",
+      "front": "In the caffeine/maze example, what are the IV and DV?",
+      "back": "IV = caffeine dose (what's changed); DV = maze navigation speed (what's measured).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-f012",
+      "front": "What does the APA recommend before running an experiment?",
+      "back": "Obtaining participants' informed consent.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
     }
   ],
   "questions": [
@@ -2533,9 +2866,333 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-v-q001",
+      "type": "mc",
+      "text": "The word 'psychology' originally comes from the Latin for the study of the:",
+      "options": [
+        "Soul",
+        "Brain",
+        "Body",
+        "Self"
+      ],
+      "answer": "Soul",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-q002",
+      "type": "mc",
+      "text": "Who set up the first psychology laboratory (1879) and wrote what's considered the first psychology textbook?",
+      "options": [
+        "Wilhelm Wundt",
+        "William James",
+        "Sigmund Freud",
+        "Edward Titchener"
+      ],
+      "answer": "Wilhelm Wundt",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-q003",
+      "type": "mc",
+      "text": "Functionalism, proposed by William James, was based on the ideas of:",
+      "options": [
+        "Charles Darwin",
+        "Ivan Pavlov",
+        "Josef Breuer",
+        "Aristotle"
+      ],
+      "answer": "Charles Darwin",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-q004",
+      "type": "mc",
+      "text": "Which technique did Freud encourage in which patients say whatever comes to mind?",
+      "options": [
+        "Free association",
+        "Conditioning",
+        "Introspection",
+        "Naturalistic observation"
+      ],
+      "answer": "Free association",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-q005",
+      "type": "tf",
+      "text": "According to the video, structuralism was short-lived because introspection was too subjective.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-q006",
+      "type": "tf",
+      "text": "Pavlov, Watson, and Skinner were major figures in humanistic psychology.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-q007",
+      "type": "fitb",
+      "text": "Freud introduced his theory of psychoanalysis in his 1900 book, The Interpretation of ______.",
+      "answer": "dreams",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-q008",
+      "type": "sa",
+      "text": "The video calls psychology an 'integrative science.' What does that mean?",
+      "answer": "Psychology draws from many schools of thought and uses many different data-gathering methods. Because the human mind is so complex, there's no single way to study it — it must be approached from many angles, which is why the modern definition blends insights from structuralism, functionalism, psychoanalysis, behaviorism, humanism, cognitive science, and neuroscience.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch1-v-q009",
+      "type": "match",
+      "text": "Match each figure to their contribution (per the video).",
+      "answer": "matched",
+      "pairs": [
+        [
+          "Wundt",
+          "First psychology lab, 1879"
+        ],
+        [
+          "Titchener",
+          "Named structuralism"
+        ],
+        [
+          "William James",
+          "Functionalism"
+        ],
+        [
+          "Freud",
+          "Psychoanalysis"
+        ],
+        [
+          "Skinner",
+          "Behaviorism / Behavior of Organisms"
+        ]
+      ],
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
+    {
+      "id": "ch2-v-q001",
+      "type": "mc",
+      "text": "The 'I-knew-it-all-along' phenomenon is also called:",
+      "options": [
+        "Hindsight bias",
+        "Confirmation bias",
+        "Sampling bias",
+        "Overconfidence"
+      ],
+      "answer": "Hindsight bias",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-q002",
+      "type": "mc",
+      "text": "Turning a general question into a measurable, testable proposition is called:",
+      "options": [
+        "Operationalizing",
+        "Replicating",
+        "Sampling",
+        "Correlating"
+      ],
+      "answer": "Operationalizing",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-q003",
+      "type": "mc",
+      "text": "In the caffeine-and-maze experiment, the dependent variable is:",
+      "options": [
+        "Maze navigation speed",
+        "Caffeine dose",
+        "The placebo",
+        "The control group"
+      ],
+      "answer": "Maze navigation speed",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-q004",
+      "type": "mc",
+      "text": "Asking a pacifist club about arms control would produce results distorted by:",
+      "options": [
+        "Sampling bias",
+        "Hindsight bias",
+        "The placebo effect",
+        "Random assignment"
+      ],
+      "answer": "Sampling bias",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-q005",
+      "type": "tf",
+      "text": "According to the video, correlation predicts the possibility of cause and effect but cannot prove it.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-q006",
+      "type": "tf",
+      "text": "In a double-blind procedure, only the participants are unaware of their group assignment.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-q007",
+      "type": "fitb",
+      "text": "An inert substance such as decaf, used for comparison against a real treatment, is a ______.",
+      "answer": "placebo",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-q008",
+      "type": "fitb",
+      "text": "Repeating a study to confirm consistent results is called ______.",
+      "answer": "replication",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-q009",
+      "type": "sa",
+      "text": "The video gives two reasons intuition can't be trusted. Name and briefly explain them.",
+      "answer": "(1) Overconfidence — we often feel certain we're right about people when we're actually wrong. (2) Perceiving order in random events — we read meaning into random sequences (like seeing a coin-flip 'streak' as significant). Hindsight bias is a third: outcomes feel obvious only after they happen. These biases are why psychology relies on systematic research instead of gut feeling.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-q010",
+      "type": "match",
+      "text": "Match each research method to its description (per the video).",
+      "answer": "matched",
+      "pairs": [
+        [
+          "Case study",
+          "In-depth look at one individual"
+        ],
+        [
+          "Naturalistic observation",
+          "Watching behavior without manipulating it"
+        ],
+        [
+          "Survey/interview",
+          "Asking people to report opinions and behaviors"
+        ],
+        [
+          "Experiment",
+          "Manipulating an IV to find cause and effect"
+        ]
+      ],
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch2-v-q011",
+      "type": "match",
+      "text": "Match each experiment term to its role (caffeine/maze example).",
+      "answer": "matched",
+      "pairs": [
+        [
+          "Independent variable",
+          "Caffeine dose (what's changed)"
+        ],
+        [
+          "Dependent variable",
+          "Maze speed (what's measured)"
+        ],
+        [
+          "Control group",
+          "Gets the placebo (decaf)"
+        ],
+        [
+          "Random assignment",
+          "Spreads out confounding variables"
+        ]
+      ],
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
     }
   ],
   "notes": [
+    {
+      "id": "ch2-v-n001",
+      "title": "Ch. 2 — Crash Course Psychology #2 (Video Notes)",
+      "body": "# Ch. 2 supplement — Crash Course Psychology #2: Psychological Research\n\n## Why we can't trust intuition\n- **Hindsight bias** — the 'I-knew-it-all-along' effect; intuition explains the past better than it predicts the future.\n- **Overconfidence** — we feel right about people more than we actually are.\n- **Perceiving order in random events** — we read meaning into randomness (a coin-flip 'streak' isn't special).\n- These biases are why we use **systematic research** instead of gut feeling.\n\n## The scientific method\n- Step one: **operationalize** — turn general questions into **measurable, testable** propositions.\n- **Theory** = explains and organizes many observations and predicts outcomes (not a hunch).\n- **Hypothesis** = a testable prediction.\n- **Replication** is key — consistent results across subjects/situations are what make a finding trustworthy. Clear, common language lets others replicate.\n\n## Descriptive methods\n- **Case study** — in-depth on one person; memorable and good for framing questions, but **can't be replicated** and risks **over-generalizing**.\n- **Naturalistic observation** — watch behavior in its natural setting without manipulating it; good for **describing**, weak for **explaining**.\n- **Surveys/interviews** — self-reported opinions/behaviors (e.g., Kinsey). **Wording matters** ('ban' vs. 'limit'; 'space aliens' vs. 'intelligent life'), and **who you ask** matters — avoid **sampling bias** by using a **random sample** (equal chance of selection).\n\n## Correlation\n- Looks at how one trait/behavior **relates** to another; lets you **predict**.\n- **Correlation is not causation** — a **confounding** third factor (e.g., no sleep, a migraine) might be the real cause.\n\n## Experimentation\n- Manipulate an **independent variable** while holding others constant to find **cause and effect**.\n- Needs an **experimental group** (manipulated) and a **control group** (not).\n- **Random assignment** minimizes **confounding variables**.\n- **Placebo** (e.g., decaf) controls for expectation; **double-blind** = neither participants nor researchers know group assignments.\n- Caffeine/maze example: IV = **caffeine dose**, DV = **maze speed**; control gets a placebo; the APA recommends obtaining **informed consent**.\n\n## ★ KEY EXAM POINTS\n- ★ Biases that fool intuition: **hindsight bias, overconfidence, seeing order in random events**.\n- ★ **Operationalize → theory → hypothesis → test → replicate.**\n- ★ Methods + trade-offs: case study (not replicable), naturalistic (describes, doesn't explain), survey (wording + sampling bias).\n- ★ **Correlation ≠ causation** (watch for confounds).\n- ★ Experiment essentials: **IV vs. DV, experimental vs. control, random assignment, placebo, double-blind, informed consent**.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Crash Course Psychology #2: Psychological Research"
+    },
+    {
+      "id": "ch1-v-n001",
+      "title": "Ch. 1 — Crash Course Psychology #1 (Video Notes)",
+      "body": "# Ch. 1 supplement — Crash Course Psychology #1: Intro to Psychology\n\n## Defining psychology\n- Word comes from the **Latin for 'study of the soul'**; modern definition = the **science of behavior and mental processes**.\n- The term wasn't coined until ~the turn of the 16th century; **scientific** psychology began in the **mid-1800s**.\n\n## Early thinkers (context)\n- **Aristotle** thought consciousness was in the heart (wrong).\n- **Ancient China** ran the first psychological-style exams (personality/intelligence) for officials.\n- **Rhazes** (Persian doctor, late 800s) was among the first to describe and treat mental illness.\n\n## Three early schools (around Freud's era)\n- **Structuralism** — **Wundt** (first lab, **Leipzig, 1879**; *Principles of Physiological Psychology* = first true textbook) and **Titchener** (named it). Used **introspection** to find the structures of consciousness; **too subjective**, so short-lived.\n- **Functionalism** — **William James** (*The Principles of Psychology*, 1890); based on **Darwin**; focused on the **function** of behavior.\n- **Psychoanalysis** — **Freud**. Inspired by Breuer's treatment of **Anna O.** ('talking cure'); used **free association**, dreams, and projection to surface the **unconscious**. *The Interpretation of Dreams* (1900). Radical claim: personality is shaped by **unconscious motives** we're unaware of — yet still discoverable through therapy. Made talk therapy a real treatment.\n\n## Later forces\n- **Behaviorism** — **Pavlov, Watson, Skinner**; study **observable behavior**; dominant into the **1960s**.\n- **Psychodynamic theories** — Freud's descendants; early experience shapes the unconscious and later behavior.\n- **Humanism, cognitive science, and neuroscience** emerged by mid-20th century (covered later).\n\n## Big takeaway\n- Psychology is an **integrative science** — no single method cracks the mind; it must be approached from all sides. The modern definition blends all these schools.\n\n## ★ KEY EXAM POINTS\n- ★ Psychology today = **science of behavior and mental processes** (Latin: 'study of the soul').\n- ★ **Wundt → Leipzig → 1879**; first textbook; **Titchener named structuralism**; introspection = too subjective.\n- ★ **James = functionalism** (Darwin-based, focus on function).\n- ★ **Freud:** Anna O. → talking cure → **free association** → *Interpretation of Dreams* (1900) → **unconscious motives**.\n- ★ **Behaviorism = Pavlov, Watson, Skinner** (observable behavior).\n- ★ Psychology is an **integrative science**.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Crash Course Psychology #1: Intro to Psychology"
+    },
     {
       "id": "ch2-tx-n001",
       "title": "Ch. 2 — Psychological Research (Textbook Summary)",
