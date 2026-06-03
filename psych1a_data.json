@@ -7,6 +7,33 @@
   "modules": [],
   "glossary": [
     {
+      "id": "ch1-tx-g014",
+      "term": "Abraham Maslow",
+      "def": "Humanistic psychologist who proposed the hierarchy of needs culminating in self-actualization.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-g012",
+      "term": "Archival research",
+      "def": "Research that analyzes existing records and data sets rather than collecting new data.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-g015",
+      "term": "Attrition",
+      "def": "The loss of participants over the course of a (usually longitudinal) study, which can bias results.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
       "id": "ch1-g003",
       "term": "Behavior",
       "def": "How we act and interact with each other and our environment; the observable side of psychology.",
@@ -23,6 +50,15 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-tx-g011",
+      "term": "Behaviorism",
+      "def": "A school (Pavlov, Watson, Skinner) arguing psychology should study only observable, measurable behavior shaped by the environment.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
     },
     {
       "id": "ch1-g024",
@@ -43,6 +79,24 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
     },
     {
+      "id": "ch1-tx-g019",
+      "term": "Biopsychology (behavioral neuroscience)",
+      "def": "A subfield examining how the brain, nervous system, and other biological systems give rise to behavior and mental processes.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-g013",
+      "term": "Carl Rogers",
+      "def": "Humanistic psychologist known for client-centered therapy, the self-concept, and unconditional positive regard.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
       "id": "ch2-g020",
       "term": "Case study",
       "def": "An intensive descriptive study of one or two individuals; the only method usable for very rare behaviors, but findings cannot be generalized.",
@@ -52,6 +106,24 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch2-tx-g007",
+      "term": "Clinical (case) study",
+      "def": "An in-depth study of a single individual or small group; rich detail but cannot be generalized.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-g025",
+      "term": "Clinical psychology",
+      "def": "The subfield focused on diagnosing and treating psychological disorders and other problematic behaviors.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
       "id": "ch1-g025",
       "term": "Cognitive approach",
       "def": "Focuses on how mental processes — perceiving, remembering, problem solving, language, attention, and thinking — influence behavior.",
@@ -59,6 +131,15 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-tx-g015",
+      "term": "Cognitive psychology",
+      "def": "The study of mental processes — thinking, memory, language, problem solving — that rose to prominence during the 'cognitive revolution' of the 1950s-60s.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
     },
     {
       "id": "ch1-g026",
@@ -88,6 +169,24 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch2-tx-g020",
+      "term": "Confirmation bias",
+      "def": "The tendency to seek out and favor information that supports one's existing beliefs.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-g018",
+      "term": "Confounding variable",
+      "def": "An outside variable that changes along with the variables of interest and offers an alternative explanation for results.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
       "id": "ch1-g007",
       "term": "Control / Change (goal of psychology)",
       "def": "The fourth goal: influencing behavior to make constructive, healthy, lasting changes (limiting or increasing certain behaviors or mental processes).",
@@ -104,6 +203,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-tx-g016",
+      "term": "Correlation",
+      "def": "A relationship in which two variables change together; measured by the correlation coefficient.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
     },
     {
       "id": "ch2-g024",
@@ -124,6 +232,24 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch1-tx-g026",
+      "term": "Counseling psychology",
+      "def": "A subfield similar to clinical psychology that focuses on helping people manage everyday stress and adjustment.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-g014",
+      "term": "Cross-sectional research",
+      "def": "A design that compares groups of different ages or characteristics at a single point in time.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
       "id": "ch1-g030",
       "term": "Cultural universality",
       "def": "Behaviors or practices that occur across all cultures and are not culture-specific (e.g., universal facial expressions for emotion).",
@@ -140,6 +266,24 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-tx-g034",
+      "term": "Deception",
+      "def": "Intentionally misleading participants about a study's purpose; permitted only when justified and followed by debriefing.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-g005",
+      "term": "Deductive reasoning",
+      "def": "Reasoning from a general theory down to specific predictions to be tested.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
     },
     {
       "id": "ch2-g008",
@@ -178,6 +322,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch1-tx-g020",
+      "term": "Developmental psychology",
+      "def": "The scientific study of how people grow and change across the lifespan.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
       "id": "ch2-g030",
       "term": "Double-blind procedure",
       "def": "A method in which neither the participant nor the interacting researcher knows who is in each group, reducing bias.",
@@ -185,6 +338,42 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-tx-g029",
+      "term": "Double-blind study",
+      "def": "A study in which neither participants nor the researchers interacting with them know group assignments, controlling experimenter bias and placebo effects.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-g005",
+      "term": "Edward Titchener",
+      "def": "Wundt's student who brought structuralism to the United States and coined the term.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-g002",
+      "term": "Empirical method",
+      "def": "An approach to knowledge that relies on systematic collection and analysis of observable data rather than opinion or anecdote.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-g018",
+      "term": "Evolutionary psychology",
+      "def": "The study of how natural selection has shaped behavior and mental processes that aid survival and reproduction.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
     },
     {
       "id": "ch2-g026",
@@ -214,6 +403,24 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
     },
     {
+      "id": "ch2-tx-g004",
+      "term": "Falsifiability",
+      "def": "The requirement that a scientific claim be capable of being proven false; ideas that cannot be tested are not scientific.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-g027",
+      "term": "Forensic psychology",
+      "def": "An applied area dealing with the intersection of psychology and the legal/justice system.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
       "id": "ch1-g014",
       "term": "Functionalism",
       "def": "Founded by William James as a reaction to structuralism; focused on the function/purpose of mental processes rather than their structure.",
@@ -221,6 +428,15 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-tx-g009",
+      "term": "Gestalt psychology",
+      "def": "A school founded by Wertheimer, Koffka, and Köhler emphasizing that the whole of an experience is greater than the sum of its parts.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
     },
     {
       "id": "ch1-g010",
@@ -232,6 +448,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
     },
     {
+      "id": "ch1-tx-g024",
+      "term": "Health psychology",
+      "def": "A subfield studying how biological, psychological, and social factors affect health and illness (the biopsychosocial model).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
       "id": "ch1-g022",
       "term": "Hierarchy of needs",
       "def": "Abraham Maslow's theory of motivation in which lower needs must be met before reaching higher levels, culminating in self-actualization.",
@@ -239,6 +464,15 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch1-tx-g012",
+      "term": "Humanism",
+      "def": "A perspective (Maslow, Rogers) emphasizing free will, personal growth, and human potential rather than determinism.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
     },
     {
       "id": "ch1-g020",
@@ -259,6 +493,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch2-tx-g037",
+      "term": "IACUC",
+      "def": "The Institutional Animal Care and Use Committee, which reviews and oversees research involving animal subjects.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
       "id": "ch2-g041",
       "term": "IACUC (Institutional Animal Care and Use Committee)",
       "def": "The committee that approves or denies studies involving animals, ensuring animals are protected from harm and that alternatives are considered first.",
@@ -266,6 +509,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-tx-g019",
+      "term": "Illusory correlation",
+      "def": "Perceiving a relationship between two variables when none actually exists.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
     },
     {
       "id": "ch2-g007",
@@ -295,6 +547,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
     },
     {
+      "id": "ch2-tx-g006",
+      "term": "Inductive reasoning",
+      "def": "Reasoning from specific observations up to broader generalizations or theories.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
       "id": "ch1-g028",
       "term": "Industrial melanism",
       "def": "The genetic darkening of a species (e.g., the peppered moth) in response to pollutants; a classic example of natural selection.",
@@ -304,6 +565,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
     },
     {
+      "id": "ch1-tx-g023",
+      "term": "Industrial-organizational (I-O) psychology",
+      "def": "An applied subfield using psychological principles in the workplace (e.g., productivity, hiring, satisfaction).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
       "id": "ch2-g037",
       "term": "Informed consent",
       "def": "An ethical requirement: participants must give permission to participate and be told the risks and benefits before the study begins.",
@@ -311,6 +581,24 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-tx-g036",
+      "term": "Institutional Review Board (IRB)",
+      "def": "A committee that reviews proposed research with human participants to ensure it is ethical.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-g010",
+      "term": "Inter-rater reliability",
+      "def": "The degree to which two or more independent observers agree in their ratings, improved by clear operational definitions.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
     },
     {
       "id": "ch1-g013",
@@ -329,6 +617,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-tx-g013",
+      "term": "Longitudinal research",
+      "def": "A design that studies the same group repeatedly over an extended period.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
     },
     {
       "id": "ch2-g033",
@@ -376,6 +673,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch1-tx-g017",
+      "term": "Multicultural psychology",
+      "def": "A perspective examining how culture, ethnicity, gender, and other identities shape behavior and mental processes.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
       "id": "ch2-g002",
       "term": "Natural laws",
       "def": "One of science's core beliefs: events happen in an orderly fashion that can be described with rules (e.g., cause and effect).",
@@ -412,6 +718,24 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch1-tx-g016",
+      "term": "Noam Chomsky",
+      "def": "Linguist whose critique of behaviorism helped spark the cognitive revolution.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-g009",
+      "term": "Observer bias",
+      "def": "Distortion of results caused by the researcher's expectations influencing what they notice or record.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
       "id": "ch2-g018",
       "term": "Observer effect",
       "def": "A term borrowed from physics: the act of watching something can alter how that thing behaves.",
@@ -439,6 +763,24 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch1-tx-g021",
+      "term": "Personality psychology",
+      "def": "The study of consistent patterns of thought, feeling, and behavior that make individuals unique.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-g028",
+      "term": "PhD vs. PsyD",
+      "def": "Two doctoral routes in psychology: the PhD emphasizes research (and often a dissertation), while the PsyD is a practice-focused clinical degree.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
       "id": "ch2-g028",
       "term": "Placebo",
       "def": "A fake treatment (e.g., a sugar pill) given to the control group so participants don't know which group they are in.",
@@ -446,6 +788,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-tx-g026",
+      "term": "Placebo effect",
+      "def": "A change in behavior or symptoms produced by the expectation of treatment rather than the treatment itself.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
     },
     {
       "id": "ch2-g009",
@@ -475,6 +826,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
     },
     {
+      "id": "ch1-tx-g010",
+      "term": "Psychoanalytic theory",
+      "def": "Sigmund Freud's view that behavior and personality are shaped by unconscious drives and early childhood experiences.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
       "id": "ch1-g017",
       "term": "Psychodynamic approach",
       "def": "Sigmund Freud's approach; behavior and personality stem from the unconscious mind and from early development. Based on observations of his (mostly upper-class female Viennese) clients.",
@@ -502,6 +862,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch2-tx-g032",
+      "term": "Random sample",
+      "def": "A subset of a population in which every member had an equal chance of selection, supporting generalizability.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
       "id": "ch2-g011",
       "term": "Random selection",
       "def": "Identifying a sample so that everyone in the population of interest has an equal chance of being included in the study.",
@@ -509,6 +878,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch2-tx-g030",
+      "term": "Reliability",
+      "def": "The consistency or repeatability of a measure.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
     },
     {
       "id": "ch2-g010",
@@ -545,6 +923,24 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-tx-g028",
+      "term": "Single-blind study",
+      "def": "A study in which participants do not know their group assignment.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-g022",
+      "term": "Social psychology",
+      "def": "The study of how people's thoughts, feelings, and behaviors are influenced by the presence of others.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
     },
     {
       "id": "ch1-g029",
@@ -619,6 +1015,15 @@
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
     },
     {
+      "id": "ch2-tx-g038",
+      "term": "Tuskegee Syphilis Study",
+      "def": "A notorious unethical U.S. study that withheld treatment from Black men; it helped drive modern research-ethics protections.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
       "id": "ch1-g021",
       "term": "Unconditional positive regard",
       "def": "A core feature of Carl Rogers's client-centered therapy: full acceptance of a client without judgment, providing a safe space to express themselves.",
@@ -635,6 +1040,15 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Weilburg Week 1 Lecture Video (Ch. 1: Introduction to Psychology)"
+    },
+    {
+      "id": "ch2-tx-g031",
+      "term": "Validity",
+      "def": "The extent to which a measure actually assesses what it claims to assess.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
     },
     {
       "id": "ch2-g003",
@@ -970,6 +1384,267 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-tx-f001",
+      "front": "Define psychology as used in the OpenStax text.",
+      "back": "The scientific study of the mind and behavior, grounded in the empirical method.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f002",
+      "front": "Structuralism vs. functionalism?",
+      "back": "Structuralism (Wundt/Titchener) studied the elements/structure of consciousness via introspection; functionalism (James) studied the purpose/function of behavior.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f003",
+      "front": "What is the core idea of Gestalt psychology?",
+      "back": "The whole of an experience is greater than the sum of its parts.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f004",
+      "front": "Who are the key behaviorists and what did they study?",
+      "back": "Pavlov, Watson, and Skinner; they studied observable behavior shaped by the environment.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f005",
+      "front": "What does humanism emphasize?",
+      "back": "Free will, personal growth, and human potential (Maslow's hierarchy; Rogers's unconditional positive regard).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f006",
+      "front": "What sparked the cognitive revolution?",
+      "back": "A renewed focus on mental processes (memory, language, thinking) in the 1950s-60s, aided by Chomsky's critique of behaviorism.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f007",
+      "front": "What does evolutionary psychology study?",
+      "back": "How natural selection shaped behaviors and mental processes that aid survival and reproduction.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f008",
+      "front": "What is the biopsychosocial model (health psychology)?",
+      "back": "The view that biological, psychological, and social factors together influence health and illness.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f009",
+      "front": "Clinical vs. counseling psychology?",
+      "back": "Clinical focuses on diagnosing/treating disorders; counseling focuses on everyday stress and adjustment.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f010",
+      "front": "Name three contemporary subfields of psychology.",
+      "back": "Any of: biopsychology, cognitive, developmental, personality, social, I-O, health, clinical, counseling, forensic, sport/exercise.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f011",
+      "front": "PhD vs. PsyD?",
+      "back": "PhD is research-focused (dissertation); PsyD is a practice-focused clinical degree.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f012",
+      "front": "When and where was the first psychology lab founded?",
+      "back": "1879, by Wilhelm Wundt at the University of Leipzig in Germany.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f013",
+      "front": "Why was introspection abandoned?",
+      "back": "It was too subjective — people's reports of their own inner experience were unreliable and unobservable.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-f014",
+      "front": "What is I-O psychology?",
+      "back": "Industrial-organizational psychology applies psychological principles to the workplace.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f001",
+      "front": "Theory vs. hypothesis?",
+      "back": "A theory is a broad, evidence-based explanation; a hypothesis is a specific, testable prediction derived from it.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f002",
+      "front": "What does falsifiability mean?",
+      "back": "A scientific claim must be capable of being proven false (testable). Untestable claims aren't scientific.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f003",
+      "front": "Deductive vs. inductive reasoning?",
+      "back": "Deductive goes from general theory to specific predictions; inductive goes from specific observations to general conclusions.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f004",
+      "front": "Strength and weakness of naturalistic observation?",
+      "back": "Strength: real, ecologically valid behavior. Weakness: no control and risk of observer bias; can't establish cause.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f005",
+      "front": "Longitudinal vs. cross-sectional research?",
+      "back": "Longitudinal follows the same people over time; cross-sectional compares different groups at one point in time.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f006",
+      "front": "What does the correlation coefficient tell you?",
+      "back": "Its sign (+/-) shows direction; its magnitude (0 to 1) shows strength; range is -1.00 to +1.00.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f007",
+      "front": "Why does correlation not prove causation?",
+      "back": "A confounding/third variable may explain the link, and direction of causation is unknown without manipulation.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f008",
+      "front": "What is an illusory correlation?",
+      "back": "Perceiving a relationship between two variables when none actually exists.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f009",
+      "front": "What is confirmation bias?",
+      "back": "Seeking or favoring evidence that supports beliefs you already hold.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f011",
+      "front": "Why use random assignment?",
+      "back": "To distribute pre-existing differences evenly across groups, controlling confounds.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f012",
+      "front": "Single-blind vs. double-blind?",
+      "back": "Single-blind: participants don't know their group. Double-blind: neither participants nor interacting researchers know.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f013",
+      "front": "Reliability vs. validity?",
+      "back": "Reliability is consistency of a measure; validity is whether it measures what it claims to.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f014",
+      "front": "What does an IRB do?",
+      "back": "Reviews research with human participants to ensure it meets ethical standards.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f015",
+      "front": "What are the four core ethics requirements for human research?",
+      "back": "Informed consent, protection from harm, confidentiality, and debriefing (with deception used only when justified).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-f016",
+      "front": "Why does the Tuskegee study matter?",
+      "back": "It was a notorious ethics violation that helped lead to modern protections like informed consent and IRBs.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
     }
   ],
   "questions": [
@@ -1444,9 +2119,441 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Weilburg Week 1 Lecture Video (Ch. 2: Psychological Research)"
+    },
+    {
+      "id": "ch1-tx-q001",
+      "type": "mc",
+      "text": "The OpenStax text defines psychology as the scientific study of:",
+      "options": [
+        "The mind and behavior",
+        "The soul",
+        "Emotions only",
+        "Abnormal behavior only"
+      ],
+      "answer": "The mind and behavior",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-q002",
+      "type": "mc",
+      "text": "Which school of thought used introspection to study the basic elements of consciousness?",
+      "options": [
+        "Structuralism",
+        "Functionalism",
+        "Behaviorism",
+        "Humanism"
+      ],
+      "answer": "Structuralism",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-q003",
+      "type": "mc",
+      "text": "'The whole is greater than the sum of its parts' is the central idea of:",
+      "options": [
+        "Gestalt psychology",
+        "Psychoanalysis",
+        "Functionalism",
+        "Cognitive psychology"
+      ],
+      "answer": "Gestalt psychology",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-q004",
+      "type": "mc",
+      "text": "Which subfield applies psychological principles to the workplace?",
+      "options": [
+        "Industrial-organizational psychology",
+        "Forensic psychology",
+        "Developmental psychology",
+        "Health psychology"
+      ],
+      "answer": "Industrial-organizational psychology",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-q005",
+      "type": "mc",
+      "text": "Which doctoral degree is the more research-focused route in psychology?",
+      "options": [
+        "PhD",
+        "PsyD",
+        "MD",
+        "MSW"
+      ],
+      "answer": "PhD",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-q006",
+      "type": "tf",
+      "text": "William James founded functionalism, which was influenced by Darwin's ideas about adaptation.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-q007",
+      "type": "tf",
+      "text": "Behaviorism argued that psychology should study unconscious drives rather than observable behavior.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-q008",
+      "type": "fitb",
+      "text": "Wilhelm Wundt opened the first psychology laboratory in the year ______.",
+      "answer": "1879",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-q009",
+      "type": "fitb",
+      "text": "The health-psychology view that biological, psychological, and social factors jointly affect health is the ______ model.",
+      "answer": "biopsychosocial",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-q010",
+      "type": "sa",
+      "text": "Briefly contrast structuralism and functionalism, naming a key figure in each.",
+      "answer": "Structuralism (Wundt, with Titchener) sought to break consciousness into its basic structural elements using introspection. Functionalism (William James, influenced by Darwin) instead focused on the purpose or function of behavior and mental processes for adaptation and survival.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-q011",
+      "type": "match",
+      "text": "Match each school of thought to its key figure.",
+      "answer": "matched",
+      "pairs": [
+        [
+          "Structuralism",
+          "Wilhelm Wundt"
+        ],
+        [
+          "Functionalism",
+          "William James"
+        ],
+        [
+          "Psychoanalytic theory",
+          "Sigmund Freud"
+        ],
+        [
+          "Behaviorism",
+          "B. F. Skinner"
+        ],
+        [
+          "Humanism",
+          "Carl Rogers"
+        ]
+      ],
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-q012",
+      "type": "match",
+      "text": "Match each contemporary subfield to its focus.",
+      "answer": "matched",
+      "pairs": [
+        [
+          "Developmental",
+          "Change across the lifespan"
+        ],
+        [
+          "Social",
+          "Influence of others on behavior"
+        ],
+        [
+          "Clinical",
+          "Diagnosing and treating disorders"
+        ],
+        [
+          "Forensic",
+          "Psychology and the legal system"
+        ],
+        [
+          "Biopsychology",
+          "Brain and nervous system basis of behavior"
+        ]
+      ],
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q001",
+      "type": "mc",
+      "text": "A specific, testable prediction derived from a theory is a:",
+      "options": [
+        "Hypothesis",
+        "Theory",
+        "Confound",
+        "Correlation"
+      ],
+      "answer": "Hypothesis",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q002",
+      "type": "mc",
+      "text": "A scientific claim must be capable of being proven false. This requirement is called:",
+      "options": [
+        "Falsifiability",
+        "Reliability",
+        "Validity",
+        "Replication"
+      ],
+      "answer": "Falsifiability",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q003",
+      "type": "mc",
+      "text": "A study that follows the same group of people over many years uses which design?",
+      "options": [
+        "Longitudinal",
+        "Cross-sectional",
+        "Archival",
+        "Case study"
+      ],
+      "answer": "Longitudinal",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q004",
+      "type": "mc",
+      "text": "An outside factor that changes with the variables of interest and offers an alternative explanation is a:",
+      "options": [
+        "Confounding variable",
+        "Dependent variable",
+        "Operational definition",
+        "Random sample"
+      ],
+      "answer": "Confounding variable",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q005",
+      "type": "mc",
+      "text": "In a study where neither participants nor interacting researchers know group assignments, the design is:",
+      "options": [
+        "Double-blind",
+        "Single-blind",
+        "Naturalistic",
+        "Correlational"
+      ],
+      "answer": "Double-blind",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q006",
+      "type": "mc",
+      "text": "The consistency of a measurement is its ______, while whether it measures what it claims is its ______.",
+      "options": [
+        "Reliability; validity",
+        "Validity; reliability",
+        "Sample; population",
+        "Theory; hypothesis"
+      ],
+      "answer": "Reliability; validity",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q007",
+      "type": "tf",
+      "text": "A correlation coefficient ranges from -1.00 to +1.00.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q008",
+      "type": "tf",
+      "text": "Random assignment and random sampling are the same thing.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q009",
+      "type": "tf",
+      "text": "Deception in research is permitted only when justified and must be followed by debriefing.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q010",
+      "type": "fitb",
+      "text": "Perceiving a relationship between two variables when none exists is called an illusory ______.",
+      "answer": "correlation",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q011",
+      "type": "fitb",
+      "text": "A precise statement of how a variable will be measured or manipulated is an operational ______.",
+      "answer": "definition",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q012",
+      "type": "sa",
+      "text": "Explain the difference between reliability and validity, and why a measure can be reliable but not valid.",
+      "answer": "Reliability is the consistency or repeatability of a measure; validity is whether it actually measures what it claims to. A measure can be reliable but not valid if it gives the same result every time but that result reflects the wrong construct — e.g., a scale consistently off by 5 pounds is reliable (consistent) but invalid (inaccurate).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q013",
+      "type": "match",
+      "text": "Match each research approach to its description.",
+      "answer": "matched",
+      "pairs": [
+        [
+          "Clinical/case study",
+          "In-depth study of one individual"
+        ],
+        [
+          "Naturalistic observation",
+          "Watching behavior in its natural setting"
+        ],
+        [
+          "Survey",
+          "Self-reported data from many people"
+        ],
+        [
+          "Archival research",
+          "Analyzing existing records"
+        ],
+        [
+          "Experiment",
+          "Manipulating an IV to establish cause"
+        ]
+      ],
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch2-tx-q014",
+      "type": "match",
+      "text": "Match each ethics term to its meaning.",
+      "answer": "matched",
+      "pairs": [
+        [
+          "Informed consent",
+          "Voluntary agreement after being told about the study"
+        ],
+        [
+          "Debriefing",
+          "Revealing the true purpose afterward"
+        ],
+        [
+          "IRB",
+          "Reviews human-participant research"
+        ],
+        [
+          "IACUC",
+          "Reviews animal research"
+        ],
+        [
+          "Confidentiality",
+          "Protecting participants' private information"
+        ]
+      ],
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
     }
   ],
   "notes": [
+    {
+      "id": "ch2-tx-n001",
+      "title": "Ch. 2 — Psychological Research (Textbook Summary)",
+      "body": "# Chapter 2 — Psychological Research (OpenStax 2e summary)\n\n*Authored summary of the OpenStax chapter scope, cited to Psychology 2e. Pairs with the lecture notes.*\n\n## 2.1 Why Is Research Important?\n- Science relies on the **scientific method** and the **empirical** gathering of evidence.\n- **Theory** = a broad, evidence-based explanation that organizes observations and generates predictions.\n- **Hypothesis** = a specific, **testable** prediction (often if-then).\n- **Falsifiability** — a claim must be capable of being shown false to count as scientific.\n- **Deductive** reasoning = general → specific; **inductive** reasoning = specific → general.\n\n## 2.2 Approaches to Research\n- **Clinical/case study** — deep dive on one person; rich but **not generalizable**.\n- **Naturalistic observation** — watch behavior in its natural setting; ecologically valid but prone to **observer bias** (improve with **inter-rater reliability** and clear operational definitions).\n- **Survey** — questionnaires/interviews; fast and broad, but **wording** and **who you ask** (sampling) can skew results.\n- **Archival research** — uses existing records/data.\n- **Longitudinal** (same people over time; risk of **attrition**) vs. **cross-sectional** (different groups at one time).\n- **Correlational research:**\n  - **Correlation coefficient** ranges **-1.00 to +1.00**; sign = direction, magnitude = strength.\n  - **Correlation ≠ causation** — beware **confounding (third) variables**, **illusory correlations**, and **confirmation bias**.\n- **Experiments** (the only way to establish cause):\n  - **Operational definitions** make variables measurable/replicable.\n  - **Independent variable** (manipulated) vs. **dependent variable** (measured).\n  - **Experimental** vs. **control** group; watch for the **placebo effect**.\n  - **Random assignment** spreads confounds evenly.\n  - **Single-blind** (participants unaware) and **double-blind** (participants + interacting researchers unaware) control bias and placebo effects.\n\n## 2.3 Analyzing Findings\n- **Reliability** = consistency of a measure; **validity** = whether it measures what it claims.\n- **Population** vs. **sample**; a **random sample** (equal chance of selection) supports generalizability.\n- Statistical analysis helps decide whether results are meaningful rather than due to chance.\n\n## 2.4 Ethics\n- Human research requires **informed consent**, **protection from harm**, **confidentiality**, and **debriefing**.\n- **Deception** is allowed only when justified and always followed by debriefing.\n- The **IRB** reviews human-participant studies; the **IACUC** reviews animal research.\n- The **Tuskegee Syphilis Study** is a key historical example of unethical research that drove modern protections.\n\n## ★ KEY EXAM POINTS\n- ★ **Theory** (broad explanation) vs. **hypothesis** (specific testable prediction); science requires **falsifiability**.\n- ★ **Deductive = general→specific; inductive = specific→general.**\n- ★ Know each method + its trade-off: case study (not generalizable), naturalistic (no control), survey (wording/sampling), correlational (no causation), experiment (establishes cause).\n- ★ **Correlation coefficient -1.00 to +1.00**; **correlation ≠ causation** (confounds, illusory correlation, confirmation bias).\n- ★ **IV manipulated, DV measured**; experimental vs. control; **placebo**; **random assignment**; **single- vs. double-blind**.\n- ★ **Reliability ≠ validity** (a measure can be consistent yet wrong).\n- ★ **Random sampling ≠ random assignment.**\n- ★ Ethics: **informed consent, protection from harm, confidentiality, debriefing**; **IRB** (humans), **IACUC** (animals); **Tuskegee** as the cautionary case.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Psychology 2e (OpenStax), Ch. 2 (authored summary, cited)"
+    },
+    {
+      "id": "ch1-tx-n001",
+      "title": "Ch. 1 — Introduction to Psychology (Textbook Summary)",
+      "body": "# Chapter 1 — Introduction to Psychology (OpenStax 2e summary)\n\n*Authored summary of the OpenStax chapter scope, cited to Psychology 2e. Pairs with the lecture notes.*\n\n## 1.1 What Is Psychology?\n- **Definition:** the **scientific** study of the **mind and behavior**.\n- Psychology uses the **empirical method** — conclusions come from systematic observation and data, not intuition or anecdote.\n- *Behavior* = observable actions; *mental processes* = internal events (thoughts, feelings, memories).\n\n## 1.2 History of Psychology\n- **Structuralism** — **Wilhelm Wundt** (first lab, **Leipzig, 1879**) and **Edward Titchener**; used **introspection** to find the elements/structure of consciousness. Abandoned as too subjective.\n- **Functionalism** — **William James** (*The Principles of Psychology*, 1890); influenced by **Darwin**; focused on the **function/purpose** of behavior.\n- **Gestalt psychology** — Wertheimer, Koffka, Köhler; **the whole is greater than the sum of its parts**.\n- **Psychoanalytic theory** — **Freud**; unconscious drives and early childhood shape personality.\n- **Behaviorism** — **Pavlov, Watson, Skinner**; study only **observable behavior** shaped by the environment.\n- **Humanism** — **Maslow** (hierarchy of needs) and **Rogers** (unconditional positive regard, self-concept); emphasizes **free will** and growth.\n- **Cognitive revolution** (1950s-60s) — return to studying **mental processes**; **Chomsky's** critique of behaviorism was pivotal.\n- **Multicultural psychology** — culture, ethnicity, gender, and identity shape mind and behavior.\n\n## 1.3 Contemporary Psychology (subfields)\n- **Biopsychology / neuroscience** — brain and nervous-system basis of behavior.\n- **Cognitive** — thinking, memory, language, problem solving.\n- **Developmental** — change across the lifespan.\n- **Personality** — stable individual patterns.\n- **Social** — how others influence us.\n- **Industrial-organizational (I-O)** — psychology in the workplace.\n- **Health** — biological + psychological + social factors (**biopsychosocial model**).\n- **Clinical / counseling** — disorders vs. everyday adjustment.\n- **Forensic** — psychology and the legal system.\n- **Evolutionary** — natural selection shaping behavior.\n\n## 1.4 Careers in Psychology\n- Degrees: **PhD** (research-focused, dissertation), **PsyD** (practice-focused clinical), and master's-level paths.\n- Careers split into **academic** (teaching + research) and **applied** roles.\n- Research literacy matters regardless of path.\n\n## ★ KEY EXAM POINTS\n- ★ Psychology = **scientific study of mind and behavior** using the **empirical method**.\n- ★ **Wundt/Leipzig/1879** = first lab; **structuralism + introspection**; **Titchener** named it.\n- ★ **James = functionalism** (Darwin-influenced, focus on *function*).\n- ★ **Gestalt** = whole > sum of parts.\n- ★ Match figures to schools: Freud→psychoanalytic, Pavlov/Watson/Skinner→behaviorism, Maslow/Rogers→humanism, Chomsky→cognitive revolution.\n- ★ Know the **subfields** and what each studies (esp. clinical vs. counseling, I-O, forensic, biopsychology).\n- ★ **PhD vs. PsyD** distinction.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Psychology 2e (OpenStax), Ch. 1 (authored summary, cited)"
+    },
     {
       "id": "ch2-n001",
       "title": "Ch. 2 — Psychological Research (Lecture Notes)",
